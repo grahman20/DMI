@@ -6,7 +6,7 @@ DMI specification from:
 
 *Rahman, M. G., and Islam, M. Z. (2013): Missing Value Imputation Using Decision Trees and Decision Forests by Splitting and Merging Records: Two Novel Techniques, Knowledge-Based Systems, Vol. 53, pp. 51 - 65, ISSN 0950-7051*, DOI information: 10.1016/j.knosys.2013.08.023, Available at [http://www.sciencedirect.com/science/article/pii/S0950705113002591](http://www.sciencedirect.com/science/article/pii/S0950705113002591)
 
-For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
+For more information, please see Dr Gea Rahman's website [here](https://csusap.csu.edu.au/~grahman/)
 
 ## BibTeX
 ```
